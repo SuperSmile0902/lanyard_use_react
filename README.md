@@ -8,16 +8,4 @@
   <img src="https://raw.githubusercontent.com/barbarbar338/react-use-lanyard/main/assets/readme.png" alt="Logo" />
   <h3 align="center">React Use Lanyard</h3>
 
-  <p align="center">
-    Use Lanyard API easily in your React app!
-    <br />
-    <a href="https://discord.gg/BjEJFwh"><strong>Get support »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/barbarbar338/react-use-lanyard/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/barbarbar338/react-use-lanyard/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/Phineas/lanyard">What Is Lanyard</a>
-  </p>
 </p>
