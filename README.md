@@ -21,8 +21,3 @@
     <a href="https://github.com/Phineas/lanyard">What Is Lanyard</a>
   </p>
 </p>
-
-
-
--   [Phineas](https://github.com/Phineas) - Creator of [Lanyard API](https://github.com/Phineas/lanyard)
--   [Eggsy](https://github.com/eggsy) - Creator of [vue-lanyard](https://www.npmjs.com/package/@eggsydev/vue-lanyard)
